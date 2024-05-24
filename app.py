@@ -1,1 +1,1 @@
-# Write 
+# Write 'Hello world' to the console
